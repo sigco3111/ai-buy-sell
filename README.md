@@ -20,7 +20,7 @@
 
 ## 1. 소개
 
-**AI Buy&Sell**은 사용자가 입력한 한국 또는 미국 주식/ETF의 티커 또는 종목명에 대해 AI 기반으로 매수/매도/보유 의견을 제공하는 웹 애플리케이션입니다. AI는 Google Gemini API를 활용하여 투자 분석 및 추천을 생성하며, 시장 변동성 지수 정보와 함께 AI가 참고한 자료(Google 검색 결과)를 제공합니다. 또한, 과거 데이터를 기반으로 AI의 일일 거래 신호에 따른 투자 시뮬레이션 기능을 제공하여 사용자가 AI의 투자 전략 성과를 가늠해볼 수 있도록 합니다.
+**AI Buy&Sell**은 사용자가 입력한 한국 또는 미국 주식/ETF의 티커 또는 종목명에 대해 AI 기반으로 매수/매도 결정을 대신 내려주는 웹 애플리케이션입니다. AI는 Google Gemini API를 활용하여 투자 분석 및 추천을 생성하며, 시장 변동성 지수 정보와 함께 AI가 참고한 자료(Google 검색 결과)를 제공합니다. 또한, 과거 데이터를 기반으로 AI의 일일 거래 신호에 따른 투자 시뮬레이션 기능을 제공하여 사용자가 AI의 투자 전략 성과를 가늠해볼 수 있도록 합니다.
 
 (애플리케이션 설명은 `metadata.json` 파일 참조: "Get AI-powered buy/sell/hold recommendations for Korean and US stocks/ETFs based on user input.")
 

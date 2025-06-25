@@ -1,0 +1,6 @@
+{
+  "name": "AI Buy&Sell",
+  "description": "Get AI-powered buy/sell/hold recommendations for Korean and US stocks/ETFs based on user input.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

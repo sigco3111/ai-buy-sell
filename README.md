@@ -24,7 +24,7 @@
 
 (애플리케이션 설명은 `metadata.json` 파일 참조: "Get AI-powered buy/sell/hold recommendations for Korean and US stocks/ETFs based on user input.")
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+**👉 라이브 데모**: [https://sigco3111.github.io/ai-buy-sell/](https://sigco3111.github.io/ai-buy-sell/) — 브라우저에서 바로 실행
 
 ## 2. 주요 기능
 
